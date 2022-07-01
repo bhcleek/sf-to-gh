@@ -15,7 +15,7 @@ jobs:
     #    path: ./
     #    persist-credentials: false
     - name: mirror-fldigi
-      uses: bhcleek/git-mirror@v1.0.0-beta.2
+      uses: bhcleek/git-mirror@v1.0.0-beta.3
       #continue-on-error: true
       with:
         source_repo: "https://git.code.sf.net/p/fldigi/fldigi"
